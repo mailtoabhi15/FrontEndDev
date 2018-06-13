@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+    a) Searching through MDN web docs
+    b) for using "strikethrough." whats the difrence b/w using "<del> Vs <s>" tag
+    c) Superscript(<sup>) & horizontal rule(<hr>) tags use 
+    d) learnt about <article>,<section> tags: some details @ https://stackoverflow.com/questions/8287460/section-article-or-div-and-smaller-text-in-a-section-and-article-tag &
+        https://stackoverflow.com/questions/34629509/should-i-use-article-or-div & http://html5doctor.com/the-article-element/
+
+  * What has been easy?
+    a) Searching through MDN web docs
+    b) using mock-ups to tarnslate to HTML comes quite handy
+
+  * What has been difficult?
+    a) its difficult to remember all the tags & there usages, with somany things going deprecated etc & thinking about diffrent browser compatibilities
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+    a) look out for help in forums & web search
+    b) used the HTMl validator for resolving issues/warnings & found out an issue with my page where i embeded <strong> & <em> wrongly,though it was gettign the desired UI effect but the validator pointed an Error using that way & thus realised.
+
+---
+
+Your response goes here!
